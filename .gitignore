@@ -1,0 +1,14 @@
+data/
+artifacts/
+subs/
+submissions/
+build/
+logs/
+runs/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.parquet
+*.zip
+*.safetensors
